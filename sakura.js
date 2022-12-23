@@ -30,9 +30,9 @@ var Sakura = function Sakura(selector, options) {
     // The minimum size of the petal.
     delay: 300,
     // Delay between petals.
-    gradientColorStart: 'rgba(255, 183, 197, 0.9)',
+    gradientColorStart: 'rgba(20, 207, 147, 0.9)',
     // Gradient color start (rgba).
-    gradientColorEnd: 'rgba(255, 197, 208, 0.9)',
+    gradientColorEnd: 'rgba(47, 215, 161, 0.9)',
     // Gradient color end (rgba).
     gradientColorDegree: 120 // Gradient degree angle.
 
