@@ -2115,7 +2115,7 @@ html[data-theme="dark"] #__footer .theme-btn:hover {
 }
 
 .comments {
-  padding-top: 35px;
+  padding: 30px;
 }
 
 .comments li>div {
