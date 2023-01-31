@@ -6,6 +6,8 @@
 /*****************************************
    yoooong
 *****************************************/
+img{max-width:100%;}
+
 
 .main_grid{text-transform: uppercase;width:100%;height:100%;display: grid;font-weight: 800;grid-template-columns: 50% 50%;height: calc(100vh - 59px);align-items: end;}
 .main_grid .left{background: var(--point-color-black-2);height: 100%;padding: 30px;display: flex;align-items: flex-end;border-right: 1px solid var(--color-5);}
