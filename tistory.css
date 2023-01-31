@@ -209,7 +209,7 @@ body{
   height: 40px;
   line-height: 1.5 !important;
   background-color: #fff;
-  color: var(--side--guest-book);
+  color: var(--point-color);
   font-weight: 500;
   font-size: 0 !important;
   padding: 0;
@@ -217,7 +217,7 @@ body{
 }
 
 #__nav .right div[class=btn_tool] .btn_menu_toolbar.btn_subscription:hover {
-  color: var(--side--guest-book) !important;
+  color: var(--point-color);
   width:150px;
   border-radius:20px;
   transition:0.3s ease;
@@ -247,7 +247,7 @@ body{
   position:absolute;
   top:9px;
   left: 0px;
-  color: var(--side--guest-book);
+  color: var(--point-color);
   font-size:15px;
   opacity:0;
   width: 100%;
