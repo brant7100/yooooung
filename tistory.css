@@ -2915,7 +2915,7 @@ html[data-theme="dark"] #__footer .theme-btn:hover {
   bottom: 4px;
   z-index: -1;
   transition: 0.25s ease;
-  display: none;
+  
 }
 #__sidebar a:hover::before{
   width:100%;
@@ -3087,7 +3087,7 @@ html[data-theme="dark"] #__footer .theme-btn:hover {
   /* border: 1px solid var(--color-5); */
   padding: 3px 7px;
   border-radius: 5px;
-  width: 100%;
+  /* width: 100%; */
   display: inline-block;
   position: relative;
   padding-left: 11px;
