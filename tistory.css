@@ -3052,7 +3052,7 @@ html[data-theme="dark"] #__footer .theme-btn:hover {
 }
 
 #__sidebar .category .tt_category .category_list li .link_item {color: var(--color-5);font-size: 1.1rem;font-weight: 700;margin-bottom: 0px;/* display: block; */line-height: 100%;/* transition: 0.25s ease; *//* display: none; */margin-bottom: 0px;margin-top: 0px;position: initial;/* text-transform: uppercase; *//* font-family: var(--font-1); */margin-bottom: 4px;}
-
+#__sidebar .category .tt_category .category_list li .link_item::after{display:none;}
 
 
 
