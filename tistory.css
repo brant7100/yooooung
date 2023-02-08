@@ -4290,7 +4290,7 @@ html[data-theme="dark"] .permalink>.content .contents_style>h3 a::after{
   margin-top: 0px;
   position: relative;
   /* text-transform: uppercase; */
-  font-family: var(--font-1);
+/*   font-family: var(--font-1); */
   margin-bottom: 10px;
 }
 
